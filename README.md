@@ -1,57 +1,54 @@
 # 👨‍💻 Suraj Mishra - Data Analyst | AI Enthusiast  
 
-**“Turning Data into Decisions, One Insight at a Time!”**  
+**“Transforming Data into Strategic Insights”**  
 
-Welcome to my GitHub! I’m Suraj, a passionate **Data Analyst** and **AI enthusiast** with a knack for solving complex problems through data-driven solutions. With a strong foundation in **Data Science**, I specialize in building explainable AI models, designing interactive dashboards, and developing scalable machine learning applications.  
-
----
-
-## 🧠 What Drives Me?  
-
-I'm on a mission to:  
-- Build **ethical and explainable AI solutions** for real-world problems.  
-- Uncover hidden patterns in data to make better decisions.  
-- Help organizations unlock their data’s true potential.  
+Welcome to my GitHub! I’m Suraj, a dedicated **Data Analyst** with a passion for uncovering actionable insights and solving real-world challenges through data-driven strategies. With expertise in **data science tools, visualization, and machine learning**, I focus on developing solutions that are not just insightful but also ethical and explainable.  
 
 ---
 
-## 🌟 My Tech Toolbox  
+## 🧠 My Mission  
 
-Here are the tools and technologies I rely on to bring ideas to life:  
+As a data professional, I am committed to:  
+- Leveraging **data analytics and visualization** to enable better decision-making.  
+- Designing **explainable AI (XAI)** solutions for ethical and transparent outcomes.  
+- Empowering organizations to harness the true value of their data.  
 
-### 🖥 Programming & Scripting  
-- **Python** (Pandas, NumPy, Scikit-learn, TensorFlow, Flask)  
-- **SQL** (PostgreSQL, MySQL)  
+---
+
+## 🌟 Technical Expertise  
+
+### **Programming & Scripting**  
+- **Python**: Pandas, NumPy, Scikit-learn, TensorFlow, Flask  
+- **SQL**: PostgreSQL, MySQL  
 - **JavaScript**  
 
-### 📊 Data Analysis & Visualization  
-- **Tableau** | **Power BI** | **Matplotlib** | **Seaborn**  
+### **Data Analysis & Visualization**  
+- **Tableau** | **Power BI** | **Excel**  
+- **Matplotlib** | **Seaborn**  
 
-### 🔍 Machine Learning & AI  
-- Supervised/Unsupervised Learning, CNNs, Transfer Learning  
-- Explainable AI (XAI), Model Optimization  
+### **Machine Learning & AI**  
+- Supervised/Unsupervised Learning  
+- Explainable AI (XAI)  
+- Model Optimization  
 
-### 🌐 Web Development  
-- HTML | CSS | Bootstrap | Flask  
-
----
-
-## 📊 GitHub Stats  
-
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajmiishra&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajmiishra&layout=compact&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajmiishra&theme=radical)](https://git.io/streak-stats)
+### **Data Engineering & Web Development**  
+- Data Cleaning and Transformation  
+- **Flask**, HTML, CSS, Bootstrap  
 
 ---
 
-## 🌍 Let’s Collaborate!  
+## 📈 GitHub Highlights  
 
-- **Got an Idea?** Let’s brainstorm and build something impactful together!  
-- Reach out for **collaborations**, **mentorship**, or just to talk tech!  
+### **Key Metrics**  
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajmiishra&show_icons=true&theme=highcontrast)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajmiishra&layout=compact&theme=highcontrast)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajmiishra&theme=highcontrast)](https://git.io/streak-stats)
 
 ---
 
-## 📫 Connect with Me  
+## 🌍 Let’s Connect!  
+
+If you're seeking a **data-driven problem solver** for your next project or just want to exchange ideas, I’d love to hear from you:  
 
 - 📧 **Email**: [surajm304@gmail.com](mailto:surajm304@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/surajm304](https://linkedin.com/in/surajm304)  
@@ -59,9 +56,11 @@ Here are the tools and technologies I rely on to bring ideas to life:
 
 ---
 
-### 👾 Fun Fact:  
-**I love coding late at night with lo-fi beats in the background.**  
+### **About Me**  
+- **Current Focus**: Explainable AI for ethical decision-making and burnout detection.  
+- **Fun Fact**: I enjoy exploring new technologies and designing dashboards that tell compelling data stories.  
 
 ---
 
-Feel free to suggest or collaborate on projects! Let’s code the future together. 🚀  
+### **Let’s Build Together**  
+I am open to collaborations, discussions, and mentorship opportunities. Feel free to reach out if you have ideas or projects that could benefit from data-driven insights. 🚀  
