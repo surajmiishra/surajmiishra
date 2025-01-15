@@ -1,4 +1,3 @@
-
 # 👨‍💻 Suraj Mishra - Data Analyst | AI Enthusiast  
 
 **“Turning Data into Decisions, One Insight at a Time!”**  
@@ -37,6 +36,13 @@ Here are the tools and technologies I rely on to bring ideas to life:
 
 ---
 
+## 📊 GitHub Stats  
+
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajmiishra&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajmiishra&layout=compact&theme=radical)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajmiishra&theme=radical)](https://git.io/streak-stats)
+
+---
 
 ## 🌍 Let’s Collaborate!  
 
@@ -59,5 +65,3 @@ Here are the tools and technologies I rely on to bring ideas to life:
 ---
 
 Feel free to suggest or collaborate on projects! Let’s code the future together. 🚀  
-
----
